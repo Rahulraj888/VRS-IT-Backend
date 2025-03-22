@@ -1,0 +1,3 @@
+# excluding package lock
+package-lock.json
+node_modules
